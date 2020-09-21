@@ -4,10 +4,9 @@
 
 ## Project Description:
 
-### Build and deploy a web app to house the work I have done. The site was created with HTML, CSS and Javascript.
+### Build and deploy a web app to house the work I have done. The site was created with HTML, CSS and Javascript and PHP
 ### I got the template from: Start Bootstrap - https://startbootstrap.com/themes/freelancer/ and then made the changes to fit what I like.
  
-### Languages used: HTML, CSS, Javascript, PHP
  **************************************
 # The landing / welcome page.
 ![](image-1.png)
