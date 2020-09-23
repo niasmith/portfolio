@@ -5,7 +5,7 @@
 ## Project Description:
 
 ### Build and deploy a web app to house the work I have done. The site was created with HTML, CSS and Javascript and PHP
-### I got the template from: Start Bootstrap - https://startbootstrap.com/themes/freelancer/ and then made the changes to fit what I like.
+
  
  **************************************
 # The landing / welcome page.
